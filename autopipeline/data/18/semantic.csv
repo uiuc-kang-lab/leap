@@ -1,0 +1,639 @@
+word,word_type,index,example_1,example_2,semantic_consistency
+board,N,2-2,Room and board .,He nailed boards across the windows .,F
+circulate,V,0-4,Circulate a rumor .,This letter is being circulated among the faculty .,F
+hook,V,0-1,Hook a fish .,"He hooked a snake accidentally , and was so scared he dropped his rod into the water .",T
+recreation,N,1-9,For recreation he wrote poetry and solved crossword puzzles .,Drug abuse is often regarded as a form of recreation .,T
+domesticity,N,4-6,Making a hobby of domesticity .,A royal family living in unpretentious domesticity .,F
+acquisition,N,3-7,The child 's acquisition of language .,That graphite tennis racquet is quite an acquisition .,F
+meeting,N,3-1,There was no meeting of minds .,The meeting elected a chairperson .,F
+nude,N,4-4,They swam in the nude .,The marketing rule ' nude sells ' spread from verbal to visual mainstream media in the 20th century .,F
+mark,N,4-8,He left an indelible mark on the American theater .,It was in London that he made his mark .,T
+association,N,7-2,Conditioning is a form of learning by association .,Many close associations with England .,F
+inclination,N,2-1,The alkaline inclination of the local waters .,An inclination of his head indicated his agreement .,F
+glaze,V,0-2,Glaze the bread with eggwhite .,The potter glazed the dishes .,T
+piggyback,V,3-1,An amendment to piggyback the current law .,He piggybacked her child so she could see the show .,F
+pick,V,1-3,To pick rags .,Do n't always pick on your little brother .,F
+belabor,V,0-2,Belabor the obvious .,She was belabored by her fellow students .,F
+bell,V,0-2,Bell cows .,Who will bell the cat ?,T
+tear,N,12-3,He took the manuscript in both hands and gave it a mighty tear .,There were big tears rolling down Lisa 's cheeks .,F
+kill,V,0-1,Kill the engine .,He killed the ball .,F
+analyze,V,0-2,Analyze your real motives .,The inspector analyzed the building 's soundness .,T
+lecture,V,3-1,Did you ever lecture at Harvard ?,She lectured to the class about her travels .,T
+rehearsal,N,1-4,A rehearsal will be held the day before the wedding .,He missed too many rehearsals .,T
+forge,V,3-1,We decided to forge ahead with our plans even though our biggest underwriter backed out .,He forged ahead .,T
+falsity,N,9-7,The belief that the world is flat is a falsity .,Argument could not determine its truth or falsity .,T
+assurance,N,1-1,An assurance of help when needed .,His assurance in his superiority did not make him popular .,F
+branch,N,1-2,A branch of Congress .,We have branches in all major suburbs .,T
+fuzz,N,9-1,He tried to clear his head of the whisky fuzz .,Peach fuzz .,F
+risk,V,3-1,I can not risk smoking .,Why risk your life ?,T
+chemistry,N,1-1,The chemistry of indigo .,The chemistry of iron .,T
+char,N,10-11,"“ Among other native delicacies , they give you fresh char . ” .","“ I had to scrub the kitchen today , because the char could n't come ” .",F
+response,N,4-1,This situation developed in response to events in Africa .,His responses have slowed with age .,F
+excuse,N,5-4,That thing is a poor excuse for a gingerbread man . Has n't anyone taught you how to bake ?,He 's a sorry excuse of a doctor .,T
+bondage,N,5-5,He sought release from his bondage to Satan .,A self freed from the bondage of time .,T
+catch,N,1-3,The catch was only 10 fish .,He shared his catch with the others .,F
+shadiness,N,4-1,There 's too much shadiness to take good photographs .,The shadiness of their transactions .,F
+passage,N,2-6,The outward passage took 10 days .,She struggled to play the difficult passages .,F
+daughter,N,13-1,"I already have a son , so I would like to have a daughter .",Her daughter cared for her in her old age .,T
+hold,V,1-0,Please hold a table at Maxim 's .,Hold a table for us at 7:00 .,T
+banish,V,0-0,Banish bad thoughts .,Banish gloom .,T
+sense,N,3-2,A keen musical sense .,A good sense of timing .,T
+opinion,N,2-6,"In my opinion , white chocolate is better than milk chocolate .",I would like to know your opinions on the new systems .,T
+deed,N,3-3,He signed the deed .,I inherited the deed to the house .,T
+question,N,8-3,His claim to the property has come under question .,He obeyed without question .,T
+distribute,V,4-2,The publisher wants to distribute the book in Asia .,The function distributes the values evenly .,F
+return,V,0-0,Return her love .,Return a compliment .,T
+officer,N,3-4,He is an officer of the court .,The club elected its officers for the coming year .,T
+clutch,V,1-1,To clutch power .,She clutched her purse .,T
+dissipation,N,1-1,The dissipation of the mist .,Mindless dissipation of natural resources .,F
+portfolio,N,9-3,He remembered her because she was carrying a large portfolio .,He holds the portfolio for foreign affairs .,F
+play,N,3-5,They gave full play to the artist 's talent .,It was all done in play .,F
+brush,N,6-4,She gave her hair a quick brush .,The dentist recommended two brushes a day .,T
+rise,N,6-1,They asked for a 10 % rise in rates .,The rising of the Holy Ghost .,F
+studio,N,1-5,His studio was cramped when he began as an artist .,You do n't need a studio to make a passport photograph .,T
+cushion,V,1-0,To cushion a blow .,Cushion the blow .,T
+plenty,N,2-4,There was plenty of food for everyone .,It must have cost plenty .,F
+look,N,1-1,A look of triumph .,His look was fixed on her eyes .,F
+recrudescence,N,1-1,A recrudescence of racism .,A recrudescence of the symptoms .,T
+metadata,N,3-4,Most websites contain metadata to tell the computer how to lay the words out on the screen .,A library catalog is metadata because it describes publications .,T
+streak,N,1-4,A streak of wildness .,He has a stubborn streak .,T
+elapse,V,5-2,He allowed a month to elapse before beginning the work .,Several days elapsed before they met again .,T
+corner,N,5-2,He tripled to the rightfield corner .,The southeastern corner of the Mediterranean .,T
+average,N,3-6,He is about average in height .,The snowfall this month is below average .,T
+replicate,V,11-0,"On entering a host cell , a virus will start to replicate .",Replicate the cell .,T
+wait,V,3-0,She used to wait down at the Dew Drop Inn .,Wait here until your car arrives .,F
+bottom,N,4-9,They started at the bottom of the hill .,They did much of their overseas trade in foreign bottoms .,F
+straggle,N,1-1,A straggle of followers .,A straggle of outbuildings .,T
+torture,N,7-13,In every war there are acts of torture that cause the world to shudder .,"Using large dogs to attack bound , hand - cuffed prisoners is clearly torture .",T
+wash,V,5-2,This silly excuse wo n't wash in traffic court .,The cat washes several times a day .,F
+seem,V,1-1,I seem to be misunderstood by everyone .,There seems no reason to go ahead with the project now .,F
+jockey,N,4-2,He 's a truck jockey .,A disc jockey .,T
+sugar,V,0-2,Sugar your tea .,John heavily sugars his coffee .,T
+load,V,0-0,Load a car .,Load the truck with hay .,T
+canon,N,2-0,The neoclassical canon .,Canons of polite society .,T
+upstage,V,6-8,She only wore that dress to upstage everyone .,"When the dog entered the stage , he upstaged the actress .",T
+ruin,V,3-3,This behavior will ruin your chances of winning the election .,The country lay ruined after the war .,F
+modify,V,1-1,Please modify this letter to make it more polite .,He modified his views on same - gender marriage .,T
+loose,V,1-0,Let loose mines .,Loose terrible plagues upon humanity .,T
+breast,N,3-5,He beat his breast in anger .,The robin has a red breast .,T
+invasion,N,1-1,An invasion of locusts .,An invasion of tourists .,T
+stay,V,5-0,Wear gloves so your hands stay warm .,"Stay with me , please .",T
+chore,N,4-4,"Washing dishes is a chore , but we can not just stop eating .",The farmer 's morning chores .,T
+stripe,N,3-3,Businessmen of every stripe joined in opposition to the proposal .,They earned their stripes in Kuwait .,F
+sight,N,4-7,He was a familiar sight on the television .,They went to Paris to see the sights .,T
+potluck,N,4-7,Here 's a good potluck of beans and stew .,Having arrived unannounced we had to take potluck .,T
+push,V,3-1,You need to push quite hard to get this door open .,Nora pushed through the crowd .,T
+nut,N,7-5,He was driving his car like a nut .,I kicked him in the nuts .,F
+share,V,2-3,Our children share a love of music .,The two countries share a long border .,T
+develop,V,2-2,Children must develop a sense of right and wrong .,We have developed a new theory of evolution .,F
+compress,V,4-1,The force required to compress a spring varies linearly with the displacement .,She compressed her lips .,T
+pressure,N,2-6,He used pressure to stop the bleeding .,The sensitivity of his skin to pressure and temperature was normal .,F
+love,V,1-1,I love French food .,I loved to write .,T
+strike,V,0-2,Strike an arc .,The clock struck midnight .,F
+shtik,N,3-7,He 's a shtik crazy .,How did you ever fall for a shtik like that ?,F
+tremor,N,3-4,She felt a tremor in her stomach before going on stage .,Did you feel the tremor this morning ?,F
+whitewash,V,3-10,Let 's not whitewash the crimes of Stalin .,"In his sermon , the minister did n't try to whitewash over the sins of his church .",F
+bridge,N,6-5,Her glasses left marks on the bridge of her nose .,Rugby players often break the bridge of their noses .,T
+adoxography,N,4-0,"Elizabethan schoolboys were taught adoxography , the art of eruditely praising worthless things .",Adoxography is particularly useful to lawyers .,T
+dexterity,N,9-7,She twirled the knife through her fingers with impressive dexterity .,Playing computer games can improve your manual dexterity .,T
+reflect,V,13-4,"People do that sort of thing every day , without ever stopping to reflect on the consequences .",The teacher 's ability reflects well on the school .,F
+harbour,N,6-7,The city has an excellent natural harbour .,The neighbourhood is a well - known harbour for petty thieves .,F
+absorb,V,0-1,Absorb the costs for something .,He absorbed the knowledge or beliefs of his tribe .,F
+round,N,1-3,The round of the seasons .,The postman 's rounds .,F
+resolution,N,3-6,Printing at higher resolution will cause a reduction in performance .,They never did achieve a final resolution of their differences .,F
+applaud,V,1-9,I applaud your efforts .,"Although we do n't like your methods , we applaud your motives .",T
+trailer,N,1-14,The trailer for that movie makes it seem like it would be fun .,"At the end of the day , we put the snowmobiles back on the trailer .",F
+dinner,N,7-6,Guests should never be late to a dinner party .,On Sundays they had a large dinner when they returned from church .,F
+growth,N,1-1,A growth of hair .,The growth of culture .,F
+buzz,N,1-1,The buzz of excitement was so great that a formal denial was issued .,The buzz of a bumble bee .,F
+beat,N,8-1,In the old days a policeman walked a beat and knew all his people by name .,A beat of the heart .,F
+footprint,N,5-1,The computer had a desktop footprint of 10 by 16 inches .,The footprints of an earlier civilization .,F
+nowhere,N,4-6,He came out of nowhere .,They went on a cruise to nowhere .,T
+mince,N,1-0,A mince of mushrooms .,Mince tastes really good fried in a pan with some chopped onion and tomato .,T
+militarize,V,0-0,Militarize the Civil Service .,Militarize Germany again after the war .,F
+intention,N,1-1,The intention of this legislation is to boost the economy .,Good intentions are not enough .,T
+submerge,V,0-2,Submerge your head completely .,The submarine submerged in the water .,F
+amuse,V,6-2,I watch these movies because they amuse me .,The clown amused the children .,T
+calibrate,V,0-1,Calibrate a gun .,He calibrated the thermometer for the Celsius scale .,F
+circumference,N,8-5,A danger to all races over the whole circumference of the globe .,He had walked the full circumference of his land .,T
+tap,V,0-0,Tap a keg of beer .,Tap a maple tree for its syrup .,T
+branch,N,4-2,We opened a new branch in London .,Our main branch is downtown .,T
+peradventure,N,3-2,This proves beyond peradventure that he is innocent .,Proved beyond peradventure . — South .,T
+finish,N,8-11,My horse was several lengths behind at the finish .,The winner is the team with the most points at the finish .,T
+kick,N,1-11,The kick must be synchronized with the arm movements .,A sidecar is a smooth drink but it has a powerful kick .,F
+month,N,4-6,He was given a month to pay the bill .,We went on holiday for two months .,T
+contradistinction,N,2-6,Sculpture in contradistinction to painting .,We used hamburgers and soda in contradistinction to healthy food .,T
+remove,V,0-2,Remove a wrapper .,The President removed many postmasters .,F
+crash,V,2-2,"You can crash here , though it 's not very comfortable .",The terrorists crashed the plane into the palace .,F
+smoothness,N,11-2,The weather system of the Pacific is determined by the uninterrupted smoothness of the ocean .,His oily smoothness concealed his guilt from the police .,F
+exhibition,N,4-2,There was an art exhibition on in the town hall .,A boat exhibition .,T
+cloister,V,0-1,Cloister the garden .,She cloistered herself in the office .,F
+maneuver,N,4-6,He made a great maneuver .,Parallel parking can be a difficult maneuver .,T
+mess,N,4-5,The house was a mess .,My boss dumped a whole mess of projects on my desk today .,F
+burn,V,0-3,Burn a CD .,My eyes are burning .,F
+knuckleball,N,8-14,Even the pitcher does n't know where his knuckleball is going .,Boston Red Sox pitcher Tim Wakefield is best known for his use of the knuckleball .,T
+map,V,0-0,Map the genes .,Map the surface of Venus .,F
+mandate,V,0-7,Mandate a colony .,The new director of the school board mandated regular tests .,F
+way,N,7-4,They did n't have much in the way of clothing .,We went our separate ways .,F
+shock,V,1-0,To shock rye .,Shock grain .,T
+tipper,N,2-7,A generous tipper .,The Americans are among the most generous tippers in the world .,T
+avail,V,2-1,It will avail them to dispose of their booty .,He availed himself of the available resources .,F
+button,N,6-4,"The politician wore a bright yellow button with the slogan "" Vote Smart "" emblazoned on it .",They passed out campaign buttons for their candidate .,T
+crop,N,2-2,The annual crop of students brings many new ideas .,The latest crop of fashions is about to hit the stores .,F
+boot,V,0-11,Boot your computer .,"When arriving at the office , first thing I do is booting my machine .",T
+heartbeat,N,5-5,The policeman waited for a heartbeat in vain .,He alone gives me such heartbeats .,T
+drag,V,3-2,Time seems to drag when you 're waiting for a bus .,The speech dragged on for two hours .,F
+chisel,V,0-2,Chisel the marble .,Who 's chiseling on the side ?,F
+literature,N,11-2,One aspect of Waterloo has not yet been treated in the literature .,The technical literature .,T
+snatch,N,2-1,Martin 's snatch at the bridle failed and the horse raced away .,Overheard snatches of their conversation .,F
+excite,V,5-0,There are drugs designed to excite certain nerves in our body .,Excite the audience .,T
+building,N,2-1,The entire building complained about the noise .,The building of the bridge will be completed in a couple of weeks .,F
+scallop,V,0-0,Scallop the hem of the dress .,Scallop the meat .,F
+date,V,4-1,Scientists often can not date precisely archeological or prehistorical findings .,To date the building of the pyramids .,T
+exchange,N,4-1,They had a bitter exchange .,An exchange of cattle for grain .,F
+apology,N,3-1,It was an apology for a meal .,The Apology of Socrates .,F
+spade,N,4-0,She led a low spade .,Spades were trumps .,T
+cocoon,V,7-1,She loves to stay at home and cocoon .,Families cocoon around the T.V. set most evenings .,T
+build,V,0-3,Build up confidence .,They had to build up their fortress to protect against attack .,T
+winterize,V,0-0,Winterize cars .,Winterize your houses .,T
+wish,N,3-2,He got his wish .,My best wishes .,F
+reinstatement,N,1-15,Her reinstatement to her former office followed quickly .,Many people are unhappy with the sacking of the chief constable and demand his immediate reinstatement .,F
+watch,V,9-3,Put a little baking soda in some vinegar and watch what happens .,The world is watching Sarajevo .,F
+installation,N,8-2,He gave a speech as part of his installation into the hall of fame .,The telephone installation took only a few minutes .,F
+conceive,V,3-7,She can not conceive .,Assisted procreation can help those trying to conceive .,T
+touch,V,3-7,He could not touch the meaning of the poem .,Helen Keller felt the physical world by touching people and objects around her .,F
+percolate,V,0-2,Percolate coffee .,I 'll percolate some coffee .,T
+drought,N,10-5,When England defeated Pakistan it ended a ten - year drought .,Farmers most affected by the drought hope that there may yet be sufficient rain early in the growing season .,F
+excite,V,0-6,Excite the neurons .,The fireworks which opened the festivities excited anyone present .,F
+pull,N,2-3,A zipper pull .,He grabbed the pull and opened the drawer .,T
+fight,N,1-2,A fight broke out at the hockey game .,There were fights in the streets .,T
+breed,N,5-1,He experimented on a particular breed of white rats .,A breed of animal .,T
+mainstream,N,6-6,His thinking was in the American mainstream .,"His ideas were well outside the mainstream , but he presented them intelligently , and we were impressed if not convinced .",T
+help,N,3-3,There 's no help for it .,I need some help with my homework .,F
+cognate,N,3-10,"English is a cognate of Greek , German , Russian and Persian .","English and , Russian , Icelandic and Irish are all cognates .",T
+convey,V,1-1,To convey information .,She conveyed the message to me .,T
+profession,N,1-6,A profession of disagreement .,My father was a barrister by profession .,F
+protest,N,6-5,The senator rose to register his protest .,They finished the game under protest to the league president .,T
+operation,N,3-7,The plane 's operation in high winds .,The power of its engine determines its operation .,T
+strip,N,6-3,He welded together some pieces of strip .,She did a strip right in front of everyone .,F
+toss,V,2-1,I 'll toss you for it .,Steve tossed John the ball .,T
+squeaker,N,4-3,Which hinge is the squeaker ?,Those sneakers are squeakers .,T
+delta,N,2-3,The Nile delta .,The Mississippi River delta .,T
+sign,V,1-1,Please sign on the dotted line .,Please sign here .,T
+capacity,N,2-7,Limited runway capacity .,He should be retained in his present capacity at a higher salary .,F
+frame,N,2-9,A lace frame .,His starved flesh hung loosely on his once imposing frame .,F
+solemnize,V,4-2,"The couple chose to solemnize their relationship in a secular ceremony , instead of having a wedding .",The King solemnized this day of morning .,F
+drawing,N,1-8,The drawing of water from the well .,He did complicated pen - and - ink drawings like medieval miniatures .,F
+cup,N,3-4,He put the cup back in the saucer .,The handle of the cup was missing .,T
+plan,V,0-1,Plan an attack .,He plans to be in graduate school next year .,F
+hit,V,0-3,Hit the bottle .,He tries to hit on women in bars .,F
+criticize,V,2-2,"Those who criticize others often are not perfect , either .",The paper criticized the new movie .,F
+wake,N,7-3,There 's no weeping at an Irish wake .,The motorboat 's wake capsized the canoe .,F
+stream,N,3-4,He felt a stream of air .,The hose ejected a stream of water .,T
+block,V,0-3,Block the signals emitted by this station .,The thick curtain blocked the action on the stage .,F
+obstacle,N,5-7,Lack of imagination is an obstacle to one 's advancement .,The poverty of a district is an obstacle to good education .,T
+point,V,0-4,Point a gun .,It 's rude to point at other people .,F
+draw,N,4-4,The luck of the draw .,They anticipated a tough draw .,T
+embellish,V,1-5,"To embellish a story , the truth .",The old book cover was embellished with golden letters .,T
+glimpse,N,7-4,From the window he could catch a glimpse of the lake .,He caught only a glimpse of the professor 's meaning .,F
+shuffle,V,1-0,"You shuffle , I 'll deal .",Shuffle the cards .,T
+bracket,V,1-0,Please bracket this remark .,Bracket bookshelves .,F
+vary,V,1-2,Prices vary .,His moods vary depending on the weather .,T
+abridge,V,4-4,The new law might abridge our freedom of expression .,He had his rights abridged by the crooked sheriff .,T
+attack,N,4-1,He published an unexpected attack on my work .,An attack of diarrhea .,F
+revenge,N,4-15,Indifference is the sweetest revenge .,"When I left my wife , she tried to set fire to the house in revenge .",T
+review,V,2-10,Let 's review your situation .,"Before I tackle the question directly , I must briefly review historical approaches to the problem .",T
+tilt,N,3-5,The court 's tilt toward conservative rulings .,The tower had a pronounced tilt .,F
+consult,V,3-0,They had to consult before arriving at a decision .,Consult your local broker .,T
+reline,V,0-6,Reline the paper .,The old fur coat must be relined .,F
+liberty,N,1-0,At liberty to choose whatever occupation one wishes .,Liberty to think or feel or do just as one pleases .,T
+answer,V,0-5,Answer the question .,She did n't want to answer .,T
+carve,V,0-2,Carve one 's name into the bark .,That chisel carved the statue .,T
+square,N,10-3,The carpenter who built this room must have lost his square .,64 is the square of 8 .,F
+donate,V,0-1,Donate money to the orphanage .,I donated blood to the Red Cross for the victims of the earthquake .,T
+proliferate,V,3-2,We must not proliferate nuclear arms .,The flowers proliferated rapidly all spring .,T
+hew,V,0-11,Hew out a path in the rock .,One of the most widely used typefaces in the world was hewn by the English printer and typographer John Baskerville .,T
+keep,V,2-1,Can I keep my old stuffed animals ?,She kept her maiden name after she married .,T
+sophistication,N,5-6,He practiced the art of sophistication upon reason .,Understanding affine transformations requires considerable mathematical sophistication .,F
+shot,N,5-1,He trained at putting the shot .,"The shot flew twenty metres , and nearly landed on the judge 's foot .",T
+muscle,N,4-0,The senators used their muscle to get the party leader to resign .,Muscle consists largely of actin and myosin filaments .,F
+fiddle,V,2-2,Do n't fiddle with the screws .,She always fiddles with her van on the weekend .,F
+harass,V,0-2,Harass the enemy .,This man harasses his female co - workers .,F
+minister,N,1-4,The minister said a prayer on behalf of the entire congregation .,Clergymen are usually called ministers in Protestant churches .,T
+sequence,N,5-4,He played the trumps in sequence .,The doctor saw a sequence of patients .,F
+abatement,N,1-3,The abatement of a nuisance is the suppression thereof .,Laws enforcing noise abatement .,T
+incorporate,V,0-3,Incorporate this document with those pertaining to the same case .,The company was incorporated in 1980 .,F
+chew,V,5-0,The steak was tough to chew as it had been cooked too long .,Chew your food and do n't swallow it !,T
+conclusion,N,1-1,The conclusion of the peace treaty .,The conclusion of a business deal .,T
+fiefdom,N,3-20,The duke 's fiefdom had been greatly expanded as a reward for his dutiful military service on behalf of the king .,"Most of our company 's computers are standardized , but the IT director allows the employees in his own little fiefdom to specify their own machines .",F
+marriage,N,1-1,A marriage of ideas .,The marriage of music and dance .,T
+button,N,3-6,"Pat pushed the button marked "" shred "" on the blender .",The elevator was operated by push buttons .,T
+plant,V,0-0,Plant bugs in the dissident 's apartment .,Plant a spy in Moscow .,T
+accumulate,V,3-2,He wishes to accumulate a sum of money .,Journals are accumulating in my office .,T
+wrangle,V,0-11,Wrangle horses .,"The bar keeper threw them out , but they continued to wrangle on down the street .",F
+ticket,N,6-9,This car could be just the ticket for a small family .,Joe will be running on an anti - crime ticket .,F
+shake,V,0-2,Shake the salt out of the salt shaker .,His hands shook .,F
+process,V,0-1,Process iron .,They processed into the dining room .,F
+spread,V,2-1,The infection spread .,Optimism spread among the population .,T
+seize,V,4-2,Birds of prey often seize small mammals .,The invaders seized the land and property of the inhabitants .,F
+follow,V,2-1,We must follow closely the economic development is Cuba .,It follows that your assertion is false .,F
+pull,N,4-6,It was a long pull but we made it .,He was sidelined with a hamstring pull .,F
+misdirect,V,0-2,Misdirect the letter .,The pedestrian misdirected the out - of - town driver .,F
+distribution,N,2-1,Worldwide in distribution .,The distribution of nerve fibers .,T
+sit,V,6-7,When does the court of law sit ?,In what city is the circuit court sitting for this session .,T
+command,V,1-0,To command an army or a ship .,Command the military forces .,T
+touch,N,3-4,He has a touch of rheumatism .,He longed for the touch of her hand .,F
+last,V,3-3,Summer seems to last longer each year .,The bad weather lasted for three days .,T
+lead,N,2-13,A good lead for a job .,"Joe is a great addition to our sales team , he has numerous leads in the paper industry .",T
+contact,V,4-2,I am trying to contact my sister .,He never contacted his children after he emigrated to Australia .,T
+send,V,0-1,Send me your latest results .,Nora sent the book from Paris .,T
+patronage,N,6-7,The restaurant had an upper class patronage .,Even before noon there was a considerable patronage .,F
+exile,N,3-4,He lived in exile .,She lived as an exile .,F
+bastion,N,2-1,The last bastion of communism .,A bastion against corruption .,T
+admit,V,0-2,Admit someone to the profession .,She was admitted to the New Jersey Bar .,T
+occurrence,N,4-1,A disease of frequent occurrence .,The occurrence ( or presence ) of life on other planets .,T
+ease,V,0-2,Ease the pain in your legs .,The pain eased overnight .,F
+safety,N,3-3,He ran to safety .,The reciprocal of safety is risk .,F
+save,N,7-5,The relief pitcher got credit for a save .,The goalie made a brilliant save .,T
+stop,V,0-0,Stop a car .,Stop the thief .,T
+exalt,V,2-3,These paintings exalt the imagination .,The man was exalted from a humble carpenter to a minister .,F
+taste,N,11-3,To ask at that particular time was the ultimate in bad taste .,He got a taste of life on the wild side .,F
+advantage,N,4-5,The enemy had the advantage of a more elevated position .,The experience gave him the advantage over me .,T
+deliberation,N,3-1,It was the deliberation of his act that was insulting .,The deliberations of the jury .,F
+allowance,V,5-3,The captain was obliged to allowance his crew .,Our provisions were allowanced .,T
+arousal,N,3-6,To influence the arousal of brain and behavior .,The purpose of art is the arousal of emotions .,T
+whimsy,N,0-3,Whimsy can be humorous to someone with time to enjoy it .,He had a whimsy about flying to the moon .,T
+strain,V,2-2,Do n't strain your mind too much .,The rope strained when the weight was attached .,F
+vision,N,9-3,The runners emerged from the trees into his clear vision .,He had a vision of the Virgin Mary .,F
+relieve,V,3-2,This shall not relieve either Party of any obligations .,The thief relieved me of $ 100 .,F
+vote,V,1-1,I vote that we all go home .,She voted for going to the Chinese restaurant .,T
+gap,N,0-7,Gap between income and outgo .,The exploring party went through the high gap in the mountains .,F
+partnership,N,5-5,The action teams worked in partnership with the government .,"Effective language learning is a partnership between school , teacher and student .",T
+piece,N,6-3,The children acted out a comic piece to amuse the guests .,He sacrificed a piece to get a strategic advantage .,F
+body,N,1-1,The body of the car was badly rusted .,Administrative body .,F
+right,N,2-1,Take a right at the corner .,Film rights .,F
+fuel,N,1-3,More fuel is needed during the winter months .,They developed alternative fuels for aircraft .,T
+peg,V,2-0,Let 's peg the rug to the floor .,Peg a tent .,T
+largeness,N,6-5,The might have repercussions of unimaginable largeness .,A man distinguished by the largeness and scope of his views .,F
+affect,V,4-2,Will the new rules affect me ?,The medicine affects my heart rate .,F
+hell,N,2-1,War is hell .,The hell of battle .,F
+cost,N,2-2,The average cost of a new house is twice as much as t was 20 years ago .,The total cost of the new complex was an estimated $ 1.5 million .,T
+parade,N,6-3,"The floats and horses in the parade were impressive , but the marching bands were really amazing .",She made a parade of her sorrows .,F
+preparation,N,3-8,He left the preparation of meals to his wife .,The resolution of one dissonance is often the preparation for another dissonance .,F
+sort,N,4-3,She served a creamy sort of dessert thing .,She wore a sort of magenta dress .,T
+refrigerate,V,1-0,Please refrigerate your uncooked meats at or below 40 Fahrenheit .,Refrigerate this medicine .,T
+ash,N,4-1,The woods planted in ash will see a different mix of species .,The ash trees are dying off .,T
+tradecraft,N,13-10,The CIA chief of station accepted responsibility for his agents ' failures of tradecraft .,Instructional designers are trained in something that might be called tradecraft .,T
+sense,V,2-2,Particle detectors sense ionization .,She immediately sensed her disdain .,F
+utter,V,0-1,Utter counterfeit currency .,He uttered strange sounds that nobody could understand .,F
+capital,N,2-2,The drug capital of Columbia .,The crime capital of Italy .,T
+prepare,V,0-1,Prepare for war .,We prepared a fish for dinner .,F
+gem,N,3-4,He had the gem set in a ring for his wife .,She 's an absolute gem .,F
+part,N,5-3,The government must do its part .,Religions in all parts of the world .,F
+rise,V,0-2,Rise to the occasion .,Her spirits rose when she heard the good news .,F
+hook,V,0-2,Hook the ball .,His opponent hooked him badly .,F
+tool,N,3-6,"He was a tool , no more than a pawn to her .",I do n't have the right tools to start fiddling around with the engine .,F
+life,N,1-13,Real life .,It was a heavy play and the actors tried in vain to give life to it .,F
+result,V,0-3,Result in tragedy .,This measure will result in good or in evil .,T
+story,N,4-2,The book tells the story of two roommates .,Disney 's stories entertain adults as well as children .,T
+load,N,3-5,That 's a load off my mind .,I 'm worried that the load on that transformer will be too high .,F
+office,N,4-5,An executive or judical office .,During his first year in office .,F
+configure,V,0-0,Configure a plane for a combat mission .,Configure my new computer .,T
+torrent,N,7-3,The houses were swept away in the torrent .,They endured a torrent of inquiries .,T
+choke,V,0-3,Choke a carburetor .,This neckband is choking the cat .,F
+embodiment,N,1-4,The embodiment of hope .,A circle was the embodiment of his concept of life .,F
+date,N,1-1,His date never stopped talking .,The date for pleading .,F
+engrave,V,0-0,Engrave a letter .,Engrave a pen .,F
+blend,N,5-7,` smog ' is a blend of ` smoke ' and ` fog ' .,Their music has been described as a blend of jazz and heavy metal .,T
+aim,V,3-1,She wanted to aim a pun .,He aimed his fists towards his opponent 's face .,F
+department,N,5-4,His work established a new department of literature .,Baking is not my department .,T
+plume,N,1-3,A plume of smoke .,Grass with large plumes .,T
+curd,N,1-1,Bean curd .,Lemon curd .,T
+rush,N,7-4,The linebackers were ready to stop a rush .,Come back after the rush .,F
+remover,N,1-1,Rust remover .,Paint remover .,T
+care,N,5-0,He handled the vase with care .,Care should be taken when holding babies .,F
+noise,N,15-3,"He knew that it was trash day , when the garbage collectors made all the noise .",They heard indistinct noises of people talking .,F
+donate,V,5-1,Some of the members may donate privately .,She donates to her favorite charity every month .,T
+earshot,N,10-7,I 'll row out on the lake but stay within earshot .,The children were told to stay within earshot .,T
+home,N,11-1,Canadian tariffs enabled United States lumber companies to raise prices at home .,His home is New Jersey .,T
+member,N,3-4,Canada is a member of the United Nations .,The library was a member of the interlibrary loan association .,T
+class,N,3-15,An emerging professional class .,"Apologizing for losing your temper , even though you were badly provoked , showed real class .",F
+disable,V,0-2,Disable this command on your computer .,He was disabled in a car accident .,F
+moderate,V,1-1,To moderate a synod .,John moderated the discussion .,T
+horse,N,2-1,A clothes horse .,500 horse led the attack .,F
+tree,V,4-4,Her dog likes to tree squirrels .,This lot should be treed so that the house will be shaded in summer .,F
+attitude,N,10-6,The airliner had to land with a nose - up attitude after the incident .,The actor struck just the right attitude .,F
+afford,V,3-2,We ca n't afford to send our children to college .,Can you afford this car ?,T
+renovate,V,2-1,This will renovate my spirits .,They renovated the ceiling of the Sistine Chapel .,F
+wateriness,N,1-3,The wateriness of his blood .,The haziness and wateriness of his disquisitions .,T
+continent,N,5-3,Pioneers had to cross the continent on foot .,There are seven continents .,T
+break,N,2-5,Make a break for it .,He finally got his big break .,F
+operation,N,4-4,They organized a rescue operation .,Consolidate the companies various operations .,T
+check,N,8-1,As he called the role he put a check mark by each student 's name .,A check on its dependability under stress .,F
+influence,N,4-4,He was a bad influence on the children .,Used her parents ' influence to get the job .,F
+scrub,V,2-1,Surgeons must scrub prior to an operation .,She scrubbed his back .,F
+facility,N,6-1,The assembly plant is an enormous facility .,Educational facilities .,F
+wine,N,3-0,She ordered some wine for the meal .,Wine is stronger than beer .,T
+closure,N,3-11,They regretted the closure of the day care center .,He needed to grieve before he could achieve a sense of closure .,F
+cuisine,N,7-1,The restaurant is noted for its excellent cuisine .,French cuisine is considered to be one of the world 's most refined and elegant styles of cooking .,T
+peak,N,1-4,The peak of perfection .,The view from the peak was magnificent .,F
+liberate,V,1-1,To liberate the mind from prejudice .,To liberate gases .,T
+trip,V,5-5,A pedestrian was able to trip the burglar as he was running away .,The questions on the test tripped him up .,T
+ball,N,1-4,The ball at the base of the thumb .,He stood on the balls of his feet .,T
+move,N,3-10,It 's your move ! Roll the dice !,"If you roll a six , you can make two moves .",T
+slip,V,0-3,Slip into something comfortable .,My grades are slipping .,F
+flush,V,0-2,Flush the meadows .,The sky flushed with rosy splendor .,F
+comb,V,0-0,Comb the wool .,Comb your hair before dinner .,T
+walk,N,7-0,After the blizzard he shoveled the front walk .,Walking is a healthy form of exercise .,F
+blockage,N,3-10,"There was a blockage in the sewer , so we called out the plumber .",We had to call a plumber to clear out the blockage in the drainpipe .,F
+collapse,V,0-4,Collapse the music stand .,The school system is collapsing .,F
+sleep,V,1-2,We sleep five people in each room .,This tent sleeps six people .,T
+shape,N,6-6,Geometry is the mathematical science of shape .,He could barely make out their shapes .,F
+leave,V,0-1,Leave your child the nurse 's care .,He left the decision to his deputy .,T
+aliyah,N,2-6,Students making aliyah .,He was called on for an aliyah .,F
+lay,V,1-0,To lay a tax on land .,Lay a responsibility on someone .,T
+thing,N,1-0,A thing of the spirit .,Things of the heart .,T
+acquaintance,N,9-9,I know of the man ; but have no acquaintance with him .,I have trouble remembering the names of all my acquaintances .,F
+sign,V,0-4,Sign an intersection .,This road has been signed .,T
+street,N,4-2,Be careful crossing the street .,The whole street protested the absence of lights .,F
+fuss,V,2-1,Do n't fuss too much over the grandchildren -- they are quite big now .,She fusses over her husband .,F
+affair,N,5-6,It is none of your affair .,He used a hook - shaped affair with a long handle to unlock the car .,T
+direct,V,0-1,"Direct your anger towards others , not towards yourself .",He directed all his energies into his dissertation .,F
+characterize,V,2-4,You can characterize his behavior as that of an egotist .,This poem can be characterized as a lament for a dead lover .,T
+strangle,V,5-6,The imperialist nation wanted to strangle the free trade between the two small countries .,A man in Boston has been strangling several dozen prostitutes .,F
+board,N,1-4,The board has seven members .,He got out the board and set up the pieces .,F
+grip,N,8-4,In Britain they call a bobby pin a grip .,They kept a firm grip on the two top priorities .,F
+swear,V,1-3,I swear by my grandmother 's recipes .,Before God I swear I am innocent .,F
+gown,N,5-5,The relations between town and gown are always sensitive .,"In the perennial town versus gown battles , townies win some violent battles , but the collegians are winning the war .",T
+triangulate,V,0-5,Triangulate the piece of cardboard .,The land surveyor worked by triangulating the plot .,F
+snap,N,3-3,The infielder 's snap and throw was a single motion .,Children can manage snaps better than buttons .,F
+say,V,4-2,What does the law say ?,The clock says noon .,F
+aptness,N,1-1,The aptness of men to follow example .,The aptness of iron to rust .,T
+pay,N,3-11,He wasted his pay on drink .,Many employers have rules designed to keep employees from comparing their pays .,T
+collapse,N,1-6,The collapse of the old star under its own gravity .,The roof is in danger of collapse .,T
+go,N,3-5,It 's my go .,I 'll give it a go .,F
+go,V,4-2,How did your interview go ?,"She was going that way anyway , so she offered to show him where it was .",T
+shot,N,6-5,The nurse gave him a flu shot .,He tried to get unposed shots of his friends .,F
+mixture,N,3-1,He drank a mixture of beer and lemonade .,The mixture of sulphuric acid and water produces heat .,F
+abuse,N,1-6,"All abuse , whether physical , verbal , psychological or sexual , is bad .",The child showed signs of physical abuse .,T
+breeze,N,1-1,The breeze rustled the papers on her desk .,The breeze was cooled by the lake .,T
+floss,V,1-2,She flossed her teeth .,The hygienist flossed my teeth .,T
+refresher,N,5-8,The nap was a welcome refresher .,He stopped at the bar for a quick refresher .,T
+violate,V,0-2,Violate the sanctity of the church .,This sentence violates the rules of syntax .,F
+barrage,N,1-4,A barrage of questions .,They laid down a barrage in front of the advancing troops .,F
+work,N,7-3,The symphony was hailed as an ingenious work .,Erosion is the work of wind or water over time .,T
+transfer,N,1-5,The transfer of the music from record to tape suppressed much of the background noise .,The best student was a transfer from LSU .,F
+homogenization,N,1-3,The homogenization of cream .,The network 's homogenization of political news .,T
+intellect,N,4-6,He has a keen intellect .,Some of the world 's leading intellects were meeting there .,F
+toilet,N,4-4,He made his morning toilet and went to breakfast .,Pensions are in the toilet .,F
+military,N,1-6,Their military is the largest in the region .,He spent six years in the military .,T
+leave,V,0-1,Leave lots of time for the trip .,This leaves no room for improvement .,T
+scraping,N,4-3,All that bowing and scraping did not impress him .,They collected blood scrapings for analysis .,F
+breed,N,4-1,Google represents a new breed of entrepreneurs .,A breed of tulip .,F
+section,N,7-0,There are three synagogues in the Jewish section .,Sections from the left ventricle showed diseased tissue .,F
+pound,V,2-0,The locks pound the water of the canal .,Pound the roots with a heavy flat stone .,F
+connection,N,8-8,The bus was late so he missed his connection at Penn Station and had to wait six hours for the next train .,The plane was late and he missed his connection in Atlanta .,T
+mechanism,N,1-0,A mechanism of social control .,Mechanisms of communication .,T
+gargle,V,0-3,Gargle with this liquid .,Every morning he gargled a little cheap Scotch .,T
+bang,N,3-4,He got a bang on the head .,They got a great bang out of it .,F
+activity,N,1-4,Catalytic activity .,They avoided all recreational activity .,F
+terror,N,2-3,He used terror to make them confess .,He was the terror of the neighborhood .,F
+landing,N,5-1,The plane made a smooth landing .,His landing on his feet was catlike .,T
+flowage,N,4-6,Rock fracture and rock flowage are different types of geological deformation .,Many campsites were located near the flowage .,F
+denizen,N,5-7,The bald eagle is a denizen of the northern part of the state .,The giant squid is one of many denizens of the deep .,F
+sensation,N,4-1,The news caused a sensation .,A sensation of touch .,F
+state,V,0-0,State your name .,State your opinion .,T
+foot,N,4-5,We went there by foot because we could not afford a taxi .,There is a lot of foot traffic on this street .,T
+dollar,N,4-1,He worships the almighty dollar .,The dollar coin has never been popular in the United States .,F
+view,N,6-10,They look the same in outward view .,The most desirable feature of the park are the beautiful views .,F
+need,V,1-1,I need him to be nice .,I needed him to go .,T
+role,N,5-2,My neighbor was the lead role in last year 's village play .,Play its role .,F
+policy,N,9-3,You should have read the small print on your policy .,It was a policy of retribution .,F
+urgency,N,7-7,They departed hurriedly because of some great urgency in their affairs .,"I 'll be there , barring any urgencies .",T
+book,N,5-13,I am reading a good book on economics .,He was frustrated because he could n't find anything about dinosaurs in the book .,T
+scrap,N,7-8,The unhappy couple got into a terrible scrap .,That car is n't good for anything but scrap .,F
+mess,V,1-3,I mess with the wardroom officers .,The afternoon breeze messed up my hair .,F
+recognition,N,7-6,Territorial disputes were resolved in Guatemala 's recognition of Belize in 1991 .,The partners were delighted with the recognition of their work .,F
+hitter,N,2-3,A hard hitter .,Blacksmiths are good hitters .,T
+affiliation,N,3-2,A valuable financial affiliation .,Welcomed the affiliation of the research center with the university .,F
+mate,N,4-9,He 's my best mate .,I 'm going to the pub with a few mates .,T
+middle,N,2-3,"In the middle of the marathon , David collapsed from fatigue .",Rain during the middle of April .,F
+diet,N,1-6,The diet of the Giant Panda consists mainly of bamboo .,He 's been reading a steady diet of nonfiction for the last several years .,F
+induction,N,6-1,He was ordered to report for induction into the army .,The induction of an anesthetic state .,F
+bull,V,1-1,To bull railroad bonds .,He bulled his way in .,F
+impregnation,N,1-1,The impregnation of wood with preservative .,"The impregnation , whatever it was , had turned the rock blue .",F
+escalation,N,4-4,Higher wages caused an escalation of prices .,There was a gradual escalation of hostilities .,T
+motivation,N,5-1,We did not understand his motivation .,His motivation was at a high level .,F
+identity,N,2-4,"A right identity , x * I = x for any x in the structure .",You can lose your identity when you join the army .,F
+holiday,N,4-6,Today is a Wiccan holiday !,No mail is delivered on federal holidays .,T
+fire,N,3-3,Clinton directed his fire at the Republican Party .,There was a fire at the school last night and the whole place burned down .,F
+average,V,2-8,"If you average 10 , 20 and 24 , you get 18 .",The number of hours I work per work averages out to 40 .,F
+addition,N,1-1,The addition of a leap day every four years .,The addition of a bathroom was a major improvement .,F
+segment,V,0-0,Segment a compound word .,Segment an orange .,T
+shoot,V,0-0,Shoot cloth .,Shoot a star .,F
+education,N,3-0,A girl 's education was less important than a boy 's .,Education is a preparation for life .,T
+succession,N,1-1,A succession of failures .,A succession of stalls offering soft drinks .,T
+erase,V,3-2,The files will erase quickly .,The chalkboard erased easily .,T
+crush,V,1-2,To crush grapes .,The car crushed the toy .,F
+figure,V,1-4,Elections figure prominently in every government program .,How do the elections figure in the current pattern of internal politics ?,T
+eliminate,V,2-4,Let 's eliminate the course on Akkadian hieroglyphics .,This possibility can be eliminated from our consideration .,F
+house,N,3-1,He counted the house .,The house applauded .,T
+cooperation,N,1-6,Economic cooperation .,They agreed on a policy of cooperation .,T
+indent,V,0-0,Indent the documents .,Indent the paragraphs of a letter .,F
+militia,N,4-10,Their troops were untrained militia .,Congress shall have power to provide for calling forth the militia -- United States Constitution .,T
+probation,N,0-4,Probation is part of the sentencing process .,"You 'll be on probation for first six months . After that , if you work out , they 'll hire you permanently .",F
+bag,V,0-1,Bag a few pheasants .,We bagged three deer yesterday .,T
+herald,N,4-4,Rouge Dragon is a herald at the College of Arms .,The chieftain had a herald who announced his arrival with a trumpet .,T
+detention,N,1-1,His detention was politically motivated .,The detention of tardy pupils .,F
+spread,V,2-4,The invaders spread their language all over the country .,A big oil spot spread across the water .,F
+accession,N,0-5,Accession to such demands would set a dangerous precedent .,The librarian shelved the new accessions .,F
+switch,V,0-3,Switch to a different brand of beer .,I want to switch this red dress for a green one .,F
+hang,V,2-0,Let 's hang this cute animal in the nursery .,Hang wallpaper .,T
+association,N,9-5,You can not be convicted of criminal guilt by association .,He joined the Modern Language Association .,F
+drop,N,8-4,It was a miracle that he survived the drop from that height .,"That was a long drop , but fortunately I did n't break any bones .",F
+precaution,N,10-2,He put an ice pack on the injury as a precaution .,To take precautions against risks of accident .,T
+experience,N,2-0,A surprising experience .,Experience is the best teacher .,F
+undo,V,0-3,Undo the shoelace .,A single mistake undid the President and he had to resign .,F
+relief,N,4-2,He has been on relief for many years .,Was the relief supposed to be protection from future harm or compensation for past injury ?,F
+adhocracy,N,8-5,The need for informational flexibility can lead to adhocracy .,The choice between bureaucracy and adhocracy represents a common dilemma .,T
+nightlife,N,4-5,In the summer the nightlife shifts to the dance clubs .,A futile search for intelligent nightlife .,T
+pencil,N,2-6,An eyebrow pencil .,This artist 's favorite medium is pencil .,F
+poster,N,3-1,I saw a poster for it on the side of a bus .,A poster advertised the coming attractions .,T
+word,N,3-10,We had a word or two about it .,"There was then a long discussion of whether to capitalize words like "" east "" .",T
+want,V,0-2,Want the strength to go on living .,Flood victims wanting food and shelter .,T
+gauntlet,N,3-3,Threw down the gauntlet .,Took up the gauntlet .,T
+bull,N,3-4,He was a bull of a man .,He made a bad bull of the assignment .,F
+flick,V,0-1,Flick a piece of paper across the table .,He flicked his Bic .,F
+treatment,N,1-1,His treatment of the race question is badly biased .,His treatment of space borrows from Italian architecture .,F
+authority,N,6-5,She lost all her respect and authority after turning up drunk to the meeting .,This book is the final authority on the life of Milton .,F
+grunt,N,3-5,He went from grunt to chairman in six years .,Infantrymen in Vietnam were called grunts .,T
+toast,N,5-5,That toaster can make wonderful toasts .,I ate a piece of toast for breakfast .,T
+hour,N,3-4,We live an hour from the airport .,It was their finest hour .,F
+dig,N,7-3,They set up camp next to the dig .,She takes a dig at me every chance she gets .,F
+dish,N,4-6,They served me a dish of rice .,We gave them a set of dishes for a wedding present .,F
+death,N,5-5,The animal died a painful death .,He seemed more content in death than he had ever been in life .,F
+upgrade,N,6-9,The power plant received a new upgrade .,"With my phone company , I get a free upgrade every twelve months if I keep topping up 10 pounds a month .",T
+afflict,V,0-2,Afflict with the plague .,She was afflicted by the death of her parents .,F
+post,V,0-2,Post a warning at the dump .,The newspaper posted him in Timbuktu .,F
+group,N,3-1,There is a group of houses behind the hill .,A group of people gathered in front of the Parliament to demonstrate against the Prime Minister 's proposals .,T
+pinnacle,V,0-6,Pinnacle a pediment .,He did not want to be pinnacled .,F
+bite,V,4-4,Gunny invariably tried to bite her .,"As soon as you bite that sandwich , you 'll know how good it is .",T
+finalize,V,2-11,Let 's finalize the proposal .,"As soon as we get the plane tickets , we 'll finalize our reservations with the hotel .",T
+lie,V,0-1,Lie down on the bed until you feel better .,She lied when she told me she was only 29 .,F
+agency,N,3-2,She has free agency .,Central Intelligence Agency .,F
+string,N,1-1,A string of islands .,The strings played superlatively well .,F
+gnash,V,1-1,To gnash the air in fury .,To gnash a carpet .,T
+twist,V,2-0,Do n't twist my words .,Twist the dough into a braid .,F
+invite,V,2-2,Can I invite you for dinner on Sunday night ?,The organizers invite submissions of papers for the conference .,F
+brush,V,0-0,Brush aside the objections .,Brush the dust from the jacket .,T
+dad,N,5-0,He had n't seen his dad in years .,"Dad , happy Father 's Day !",T
+render,V,0-6,Render the brick walls in the den .,The face of the child is rendered with much tenderness in this painting .,F
+kinship,N,2-3,Anthropology 's kinship with the humanities .,Felt a deep kinship with the other students .,T
+agency,N,3-3,The superintendence and agency of Providence in the natural world . --Woodward .,The Central Intelligence Agency .,F
+breakdown,N,8-5,"After so much stress , he suffered a breakdown and simply gave up .",His warning came after the breakdown of talks in London .,F
+combust,V,1-2,We combust coal and other fossil fuels .,The professor combusted when the student did n't know the answer to a very elementary question .,F
+writing,N,0-9,Writing was a form of therapy for him .,The idea occurs with increasing frequency in Hemingway 's writings .,F
+inadequacy,N,5-1,Juvenile offenses often reflect an inadequacy in the parents .,The inadequacy of unemployment benefits .,F
+step,N,2-2,Always a step behind .,Keep in step with the fashions .,T
+flip,V,2-1,I 'd flip if anyone broke my phone .,He flipped when he heard that he was accepted into Princeton University .,F
+reappearance,N,1-1,The reappearance of Halley 's comet .,His reappearance as Hamlet has been long awaited .,F
+usage,N,1-1,English usage .,A usage borrowed from French .,T
+gig,N,3-5,They played a gig in New Jersey .,Our guitar player had another gig so we had to get a sub .,T
+demon,N,3-4,She 's a demon at math .,He worked like a demon to finish the job on time .,T
+eccentricity,N,5-7,"For an ellipse , the eccentricity is the ratio of the distance from the center to a focus divided by the length of the semi - major axis .",A circle is an ellipse with zero eccentricity .,T
+allowance,N,2-1,My weekly allowance of two eggs .,Travel allowance .,T
+transplant,V,5-0,These delicate plants do not transplant easily .,Transplant the young rice plants .,F
+middle,N,5-8,I woke up in the middle of the night .,"A whole is that which has beginning , middle , and end - Aristotle .",T
+spin,N,5-4,The campaign put a favorable spin on the story .,The skaters demonstrated their spins .,F
+heel,V,0-0,Heel a golf ball .,Heel that dance .,F
+socialization,N,1-4,"Force socialization rarely creates strong friendships , but there are exceptions .",There was too much socialization with the enlisted men .,T
+attend,V,2-1,I rarely attend services at my church .,She attends class regularly .,T
+oppression,N,3-1,The tyrant 's oppression of the people .,The oppression of the poor by the aristocracy was one cause of the French Revolution .,T
+tap,V,0-1,Tap a cask of wine .,He tapped a new barrel of beer .,T
+touch,V,12-1,"Please can I have a look , if I promise not to touch ?",Carrie touched his shoulder with the stick .,T
+work,N,6-1,He was indebted to the pioneering work of John Dewey .,The work of an active imagination .,T
+construction,N,5-0,The engineer marvelled at his construction .,Construction is underway on the new bridge .,F
+catch,V,10-1,I would love to have dinner but I have to catch a plane .,We caught something of his theory in the lecture .,F
+segregate,V,5-2,Experiments show clearly that genes segregate .,Many towns segregated into new counties .,T
+border,N,6-1,The rug had a wide blue border .,The borders of the garden .,T
+scavenge,V,1-1,Hyenas scavenge .,She scavenged the garbage cans for food .,F
+manipulation,N,1-11,His manipulation of his friends was scandalous .,He found that the new manager was known for his Machiavellian manipulations in his last two positions .,T
+flood,V,0-3,Flood the market with tennis shoes .,The swollen river flooded the village .,F
+steam,V,1-7,Just steam the vegetables .,Her indifference to his amorous advances really steamed the young man .,F
+foundation,N,3-2,He lacks the foundation necessary for advanced study .,"The Wikimedia Foundation , Inc. is the parent organization of the Wiktionary collaborative project .",F
+twilight,N,9-3,I could just make out her face in the twilight .,He loved the twilight .,F
+rank,N,7-4,The strike was supported by the union rank and file .,He rose from the ranks to become a colonel .,T
+delight,N,5-1,The new car is a delight .,His delight to see her was obvious to all .,F
+path,N,1-1,The path of virtue .,Our paths in life led us apart .,T
+get,V,4-2,The operator could n't get Kobe because of the earthquake .,I 'll get this finished by lunchtime .,F
+forwarding,N,1-1,The forwarding of resumes to the personnel department .,The forwarding of mail to a new address is done automatically .,T
+fail,V,2-4,Did I fail the test ?,She studied hard but failed nevertheless .,T
+dimple,N,4-4,The accident created a dimple in the hood of the car .,There are approximately 336 dimples on a golf ball .,T
+pity,N,3-7,It 's a pity he could n't do it .,The blind are too often objects of pity .,F
+rail,N,4-3,He was concerned with rail safety .,He traveled by rail .,T
+preempt,V,6-6,Discussion of the emergency situation will preempt the lecture by the professor .,Live broadcast of the presidential debate preempts the regular news hour .,T
+assumption,N,2-13,The Nazi assumption of power in 1934 .,He acquired all the company 's assets for ten million dollars and the assumption of the company 's debts .,T
+brother,N,6-3,I would like to thank the brother who just spoke .,None of his brothers would betray him .,T
+recruit,V,0-3,Recruit new soldiers .,The lab director recruited an able crew of assistants .,F
+upset,V,1-3,Truman upset Dewey in the 1948 US presidential election .,The foreign team upset the local team .,T
+show,N,1-2,A show of impatience .,A good show of looking interested .,T
+fondler,N,8-2,The woman charged that her jailer was a fondler .,Not all fondlers are sexual perverts .,T
+body,N,2-2,The whole body filed out of the auditorium .,The student body .,T
+destroy,V,1-2,Hooligans destroy unprovoked .,The fire destroyed the house .,T
+confusion,N,4-1,The army retreated in confusion .,A confusion of impressions .,F
+stress,N,4-3,Some people put the stress on the first syllable of “ controversy ” ; others put it on the second .,The intensity of stress is expressed in units of force divided by units of area .,F
+inject,V,0-5,Inject hydrogen into the balloon .,Now lie back while we inject you with the anesthetic .,F
+custody,N,6-4,He was mistreated while in police custody .,He is in the custody of police .,T
+gesture,N,2-1,A political gesture .,A gesture of defiance .,T
+cleat,V,0-0,Cleat running shoes for better traction .,Cleat a line .,F
+repair,V,4-1,One can never fully repair the suffering and losses of the Jews in the Third Reich .,She repaired her TV set .,F
+fold,V,0-1,Fold up the newspaper .,Tony folded the flaps open .,T
+piano,N,10-9,Most of the works by Frédéric Chopin are for the piano .,"He can play "" Happy Birthday "" on the piano .",T
+decussate,V,2-2,The fibers decussate .,This nerve decussates the other .,T
+grind,V,0-0,Grind lenses for glasses and cameras .,Grind an axe .,T
+wail,V,0-1,Wail in self - pity .,She wailed with pain .,F
+form,V,8-0,"By adding "" -ness "" , you can form a noun from an adjective .",Form cylinders from the dough .,F
+pronunciation,N,4-1,That is the correct pronunciation .,The pronunciation of Chinese is difficult for foreigners .,T
+criticism,N,4-7,The senator received severe criticism from his opponent .,The politician received a lot of public criticism for his controversial stance on the issue .,F
+wrong,N,4-7,Injustice is a heinous wrong .,He feels that you are in the wrong .,T
+fatigue,N,1-5,Growing fatigue was apparent from the decline in the execution of their athletic skills .,He was hospitalized for extreme fatigue .,T
+cross,N,4-3,A mule is a cross between a horse and a donkey .,That is his cross to bear .,F
+handle,V,2-4,Do n't handle the merchandise .,"About his altar , handling holy things - John Milton .",T
+hail,V,0-2,Hail a cab .,He was hailed as a hero .,T
+stabilize,V,3-2,The country will stabilize after the next election ends .,The economy stabilized .,T
+expect,V,1-2,I expect to receive wages .,We were expecting a visit from our relatives .,T
+shower,N,7-2,The game was interrupted by a brief shower .,A little shower of rose petals .,F
+promulgation,N,1-1,The promulgation was written in English .,His promulgation of the policy proved to be premature .,F
+hostility,N,5-6,He could not conceal his hostility .,He could no longer contain his hostility .,F
+clap,V,4-3,The children began to clap in time with the music .,The big bird clapped its wings .,F
+clime,N,4-12,Plants from a cold clime travel best in winter .,"After working hard all of his life , Max retired to warmer climes in Florida .",T
+deal,N,1-3,A deal of trouble .,He made a deal with the devil .,F
+listen,V,1-3,Please listen carefully as I explain .,I like to listen to music .,T
+party,N,1-3,The party of the first part .,He planned a party to celebrate Bastille Day .,F
+section,N,10-4,The history of this work is discussed in the next section .,A graduate student taught sections for the professor 's lecture course .,F
+conserve,V,0-2,Conserve your energy for the ascent to the summit .,Mom always conserved the strawberries we grew in the backyard .,F
+joy,N,1-1,A joy to behold .,The joys and demands of parenthood .,F
+create,V,0-0,Create a poem .,Create one a peer .,F
+surface,N,10-11,It was not what it appeared to be on the surface .,The cloth had a pattern of red dots on a white surface .,F
+setting,N,2-3,A place setting of sterling flatware .,He changed the setting on the thermostat .,F
+bane,N,1-1,The bane of my existence .,The bane of my life .,T
+license,N,2-3,The intolerable license with which the newspapers break ... the rules of decorum - Edmund Burke .,When liberty becomes license dictatorship is near - Will Durant .,T
+bend,V,4-0,The stick does not bend .,Bend your knees .,F
+act,V,3-2,"She wants to act Lady Macbeth , but she is too young for the role .",I started acting at the age of eleven in my local theatre .,T
+worship,V,1-2,They worship in the traditional manner .,Many Hindus worship Shiva .,F
+minute,N,2-4,"Wait a minute , I 'm not ready yet !",It only takes a minute .,T
+glow,N,1-1,A glow of regret .,The glow of new love .,T
+prohibition,N,5-9,They were restrained by a prohibition in their charter .,In 1920 the 18th amendment to the Constitution established prohibition in the US .,F
+near,V,2-2,They are nearing the coast .,The ship nears the land .,T
+distance,N,6-1,I could see it in the distance .,The distance from New York to Chicago .,F
+strand,N,1-6,A strand of pearls .,He tried to pick up the strands of his former life .,F
+activity,N,3-3,The level of activity declines with age .,His sphere of activity .,F
+delay,N,6-1,Instant replay caused too long a delay .,The delay before the echo of a sound .,F
+dip,V,0-1,Dip the brush into the paint .,She dipped her knee .,F
+bye,N,3-5,He had a bye in the first round .,Craig 's Crew plays the bye next week .,T
+subsidy,N,1-6,A subsidy for research in artificial intelligence .,Manufacturing firms are supported by government subsidies in some countries .,T
+fuel,V,0-0,"Fuel aircraft , ships , and cars .",Fuel the debate on creationism .,F
+club,N,1-7,Each club played six home games with teams in its own division .,He played the drums at a jazz club .,F
+longevity,N,2-1,Had unusual longevity in the company .,Her longevity as a star .,T
+appreciate,V,1-2,I appreciate your efforts .,The yen appreciated again !,F
+preponderance,N,1-1,The preponderance of good over evil .,The preponderance of wealth and power .,T
+youth,N,0-1,Youth everywhere rises in revolt .,Her youth and beauty is what attracted him to her .,F
+probity,N,5-6,In a world where financial probity may not be widespread .,He enjoys an exaggerated reputation for probity .,T
+explanation,N,1-1,The explanation was very simple .,The explanation was long and drawn - out .,T
+inject,V,0-1,Inject heroin .,He injected new life into the performance .,F
+force,N,1-2,A force out was recorded on the scorecard .,A public force is necessary to give security to the rights of citizens .,F
+preserve,V,0-1,Preserve the peace in the family .,To preserve silence .,T
+restraint,N,7-6,The room was simply decorated with great restraint .,The car did not have proper restraints fitted .,F
+log,N,3-2,They kept a log of all transmission by the radio station .,An email log .,T
+cost,V,2-3,These shoes cost $ 100 .,The bill will cost them 500 million dollars .,T
+professionalization,N,1-1,The professionalization of warfare .,The professionalization of American sports .,T
+pocket,V,7-1,Lydia put the change in her left pocket .,Lydia pocketed the change .,T
+stab,N,3-3,He took a stab at forecasting .,She felt a stab of excitement .,F
+roll,N,1-3,The roll of a ball .,Look at the roll of the waves .,T
+property,N,5-4,He is a man of property .,That hat is my property .,T
+success,N,1-5,His success in the marathon was unexpected .,The election was a remarkable success for the Whigs .,F
+sexualize,V,2-3,Some languages sexualize all nouns and do not have a neuter gender .,The god was sexualized and married to another god .,T
+wish,N,4-4,It was his last wish .,They should respect the wishes of the people .,T
+sultriness,N,1-1,The sultriness of her look was unmistakable .,The sultriness of lust was in the air .,T
+crisis,N,6-2,They went bankrupt during the economic crisis .,After the crisis the patient either dies or gets better .,F
+reality,N,1-1,The reality of his situation slowly dawned on him .,The reality of the crash scene on TV dawned upon him only when he saw the victim was no actor but his friend .,T
+defense,N,4-5,They died in the defense of Stalingrad .,They were developed for the defense program .,T
+forbid,V,1-2,I forbid you to call me late at night .,The rules forbid it .,T
+update,V,3-1,I need to update my records to take account of the most recent transaction .,We updated the kitchen in the old house .,T
+sound,N,5-6,The main body of the sound ran parallel to the coast .,He strained to hear the faint sounds .,F
+system,N,5-6,That language has a complex system for indicating gender .,They have to operate under a system they oppose .,T
+easiness,N,2-3,The very easiness of the deed held her back .,There was an easiness between them .,F
+mire,V,1-5,To mire a horse or wagon .,Our people should not be mired in the past .,F
+spend,V,0-1,Spend money .,He spends far more on gambling than he does on living proper .,T
+reverence,N,6-2,The French treat food with gentle reverence .,The Chinese reverence for the dead .,T
+buy,V,5-2,$ 50 wo n't even buy a dress .,FMC has bought 565 .,T
+instruction,N,2-0,Students receive instruction in the arts and sciences .,Instruction will be provided on how to handle difficult customers .,T
+extension,N,7-1,The dancer was praised for her uncanny extension .,Good extension comes from a combination of training and native ability .,T
+believe,V,3-1,We did n't believe his stories from the War .,I believed his report .,T
+heritage,N,3-1,The world 's heritage of knowledge .,A heritage of freedom .,F
+caller,N,4-4,- Who 's the caller ?,There were so many callers that he finally disconnected the telephone .,T
+base,N,9-0,He told the painter that he wanted a yellow base with just a hint of green .,Bases include oxides and hydroxides of metals and ammonia .,F
+power,N,5-6,He needed a lot of power to hit the ball out of the stadium .,The mysterious presence of an evil power .,F
+portmanteau,N,8-5,` brunch ' is a well - known portmanteau .,` motel ' is a portmanteau word made by combining ` motor ' and ` hotel ' .,T
+promise,V,1-1,I promise you my best effort .,I promised somebody my time .,T
+pierce,V,1-2,To pierce a mystery .,The path pierced the jungle .,F

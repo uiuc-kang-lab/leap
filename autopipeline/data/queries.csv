@@ -1,0 +1,121 @@
+QID,Query
+1,Recognize the “malleable” cases.
+2,Is the public mood correlated or even predictive of economic indicators?
+3,"For each persona/in-group, I want to know the number of each type of dog whistles."
+4,Which news headlines contain misinformation?
+5,What is the difference between stance and sentiment? 
+6,Which posts contain hate speech?
+7,Count the number of each class of implicit hate speech.
+8,I want to find the percentage in all hate speeches that are white grievance implicit hate speech and target at Jews.
+9,I want to know the implied statement of posts that are white grievance implicit hate speech and target at Jews.
+10,I want to find the triggers for all posts of emotion that has the maximum quantity.
+11,I want to find the emotion triggers for all posts.
+12,I want to retrieve the explanations of the premise that entails the original figurative sentences.
+13,I want to retrieve the explanations of the premise that entails the original figurative sentences that contains sarcastic meaning.
+14,I want to get the readers' actions of headlines that has a high rate of likelihood to spread.
+15,I want to retrieve posts with the most common dialect features. 
+16,Provide cognitive-behavioral therapies to these negative thoughts.
+17,Which posts are persuasive?
+18,I want to retrieve example pairs of the same verb but with different semantics.
+19,I want to classify comments in online discussions into a set of coarse discourse acts towards the goal of better understanding discussions at scale.
+20,I want to understand emphathy expressed in text-based mental health support.
+21,"I want to get response posts that provide strong mental health support in all three dimensions: emotional reaction, exploration, and intepretation."
+22,I want to count the number of amusing and boring posts.
+23,I want to identify all impolite posts.
+24,I want to predict whether the conversation will get out of hand.
+25,I want to get the imaginary stories generated based on the recalled stories.
+26,I want to get all the imaginary stories in the 'sent' column.
+27,I want to identify all the sentences in the 'sent' column that contain major events not as expected.
+28,I want to extract event arguments.
+29,I want to find the percentage of right political ideology. 
+30,I want to find the percentage of right political ideology.
+31,I want to find all characters that are chanteuse.
+32,I want to extract supporter response that uses 'Affirmation and Reassurance' strategy.
+33,I want to perform strategy selection and strategy-constrained response generation.
+34,I want to see how sentiment affects the attackability of a sentence.
+35,I want distinguish between conversations among romance and social relationships.
+36,I want to extract all deceptive videos.
+37,Which requests are likely to succeed?
+38,I want to quantify how the bias of words evolve.
+39,I want to extract all fake videos.
+40,I want to study how conversational behavior can reveal power relationships. 
+41,I want to know the ratio of 'malleable' posts versus non-'malleable' posts.
+42,Can societies experience mood states that affect their collective decision making?
+43,"For each persona/in-group, I want to know the percentage of each type of dog whistles."
+44,How many news headlines contain misinformation?
+45,Are there correlations between stance and sentiment? 
+46,How many posts contain hate speech?
+47,I want to know the percentages of each class of implicit hate speech.
+48,I want to find all hate speeches that are white grievance implicit hate speech and target at Jews.
+49,I want to know the implied statement of posts containing threatening implicit hate speech that targets at Jews.
+50,I want to find the triggers for all posts of emotion that has the minimum quantity.
+51,What triggers these posts?
+52,I want to retrieve the explanations of the premise that contradicts the original figurative sentences.
+53,I want to retrieve the explanations of the premise that contradicts the original figurative sentences that contains sarcastic meaning.
+54,I want to get the readers' actions of headlines that has a low rate of likelihood to spread.
+55,I want to retrieve posts with the least common dialect features. 
+56,Provide positive reframing to these negative thoughts.
+57,Which posts are not persuasive?
+58,I want to retrieve example pairs of the same noun but with different semantics.
+59,How do people conduct conversations and arguments?
+60,How effecitive are these mental health supports?
+61,"I want to get response posts that provide weak mental health support in all three dimensions: emotional reaction, exploration, and intepretation."
+62,I want to get the percentages of amusing and boring posts.
+63,I want to identify all polite posts.
+64,I want to extract conversations that won't get out of hand.
+65,Rewrite the stories.
+66,I want to get all the non-imaginary stories in the 'sent' column.
+67,I want to identify all the sentences in the 'sent' column that contain minor events as expected.
+68,I want to extract sentences that contains 'Attacker' in their event arguments.
+69,I want to find the percentage of left political ideology. 
+70,I want to find the percentage of left political ideology.
+71,I want to find all characters that are retired outlaws.
+72,I want to extract supporter response that doesn't use 'Affirmation and Reassurance' strategy.
+73,How can I respond to these consults?
+74,Are there correlations between attackability and sentiment?
+75,How many conversations are of romance relationship?
+76,I want to extract all videos that are not deceptive.
+77,Which requests are likely to fail?
+78,What is the difference between the bias of words in 1970 and in 1990?
+79,I want to extract all videos that are not deepfake.
+80,I want to study how different power relationships affect conversations. 
+81,"I want to retrieve all requests that uses ""Evidence"" strategy."
+82,What's the most frequently used request strategy?
+83,I want to extract all the parties involved from the cases.
+84,What is the least frequent named entity type from the cases?
+85,What's the difference between part of speech and named entity?
+86,I want to extract all the part of speech from the cases.
+87,What is the most frequent part of speech type from the cases?
+88,I want to give an overview of the cases.
+89,Briefly summarize the cases.
+90,I want to obtain the paragraph-wise contents in the documents.
+91,I want to obtain the contents in the documents.
+92,I want to obtain summaries that are fair on the cases.
+93,I want to retrieve summaries with neutral sentiments of the cases.
+94,I want to summarize each paragraph of the documents.
+95,I want to get an overview of the documents.
+96,Which paragraphs in the documents are fairly expressed?
+97,Which paragraphs in the documents have neutral sentiments?
+98,I want to extract all the parties involved in the summaries of the cases.
+99,What is the most frequent named entity type from the summaries of the cases in the 'case' column?
+100,I want to extract all the part of speech from the summaries of the cases.
+101,What is the least frequent part of speech type from the summaries of the cases?
+102,I want to obtain summaries that are fair on each paragraph of the documents.
+103,I want to obtain summaries with neutral sentiments on each paragraph of the documents.
+104,I want to summarize the documents.
+105,I want to extract all the part of speech from the documents.
+106,What is the least frequent named entity type from the documents?
+107,I want to extract all the parties involved from the documents.
+108,What is the least frequent part of speech type from the documents?
+109,Are the documents fairly expressed?
+110,I want to know the sentiments expressed in the documents.
+111,I want to extract the offensive texts.
+112,Are the defense to these texts effective?
+113,Analyze gender assymetries in the output of statistical machine translation.
+114,Quantify the Echo Chamber Effect.
+115,Extract tweets with low Echo Chamber Effect.
+116,I want to extract all the parties involved from the summaries of the documents.
+117,What is the least frequent named entity type from the summaries of the documents?
+118,Are the documents fairly summarized?
+119,I want to extract all the part of speech from the summaries of the documents.
+120,What is the most frequent part of speech type from the summaries of the documents?
