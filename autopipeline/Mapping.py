@@ -3447,7 +3447,6 @@ def table_gen(user_query, table, enum, description, status, function_chain, verb
             if response.status_code == 200:
                 with open('static/dot_graph.png', 'wb') as image_file:
                     image_file.write(response.content)
-            # dot.render(filename='static/dot_graph', format='png', cleanup=True)
     
     if verbose:
         print("VERBOSE:"+"Execution Time for Table Generation = ", time.time() - start_time)
@@ -3462,14 +3461,6 @@ def table_gen(user_query, table, enum, description, status, function_chain, verb
         now = datetime.now()
         timestamp = datetime.timestamp(now)
         print(f'VER NUMBER:{timestamp}')
-
-        # ---- saves file ----
-        # table.to_csv(f'static/augmented_table{timestamp}.csv', index=False)
-
-        # table_str = table.to_string()
-        # verbose_table = "\n".join("VERBOSE: " + line for line in table_str.split('\n'))
-        # print("VERBOSE: Augmented table: ")
-        # print(verbose_table)
 
     print("Augmented table: ")
     print(table)
