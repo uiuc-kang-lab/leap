@@ -2,7 +2,7 @@
 
 This repository contains the code for the following paper,
 
-**LEAP: LLM-powered End-to-end Automatic Library for Processing Social Science Queries on Unstructured Data**<br/>
+**[LEAP: LLM-powered End-to-end Automatic Library for Processing Social Science Queries on Unstructured Data (VLDB'25)](https://arxiv.org/abs/2501.03892)**<br/>
 *Chuxuan Hu, Austin Peters, and Daniel Kang*
 
 In this paper, we introduce LEAP, an end-to-end library designed to support social science research by automatically analyzing user-collected unstructured data in response to their natural language queries. 
