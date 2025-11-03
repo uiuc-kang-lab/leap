@@ -1,5 +1,8 @@
 # LEAP and QUIET-ML
 
+
+[![arXiv](https://img.shields.io/badge/arXiv-2501.03892-b31b1b.svg)](https://arxiv.org/abs/2501.03892)
+
 This repository contains the code for the following paper,
 
 **[LEAP: LLM-powered End-to-end Automatic Library for Processing Social Science Queries on Unstructured Data (VLDB'25)](https://arxiv.org/abs/2501.03892)**<br/>
